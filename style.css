@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: black;
+
+}
+.heading{
+    font-size: 12rem;
+    font-weight: 900;
+    background: url(https://www.istockphoto.com/resources/images/RoyaltyFree/Hero-813062534_2000x650.jpg);
+
+background-size:cover;
+-webkit-background-clip :text;
+color: transparent;
+}
